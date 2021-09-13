@@ -1,4 +1,4 @@
- ![img](images/tencentos-logo.png) 
+![img](images/tencentos-logo.png) 
 
 
 # TencentOS Server kernel
@@ -421,6 +421,7 @@ kpatch在内核中是基于ftrace实现内核函数的替换，类似于ftrace�
 
 
 ![img](images/hot_patch_img4.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimboomboom%2FTencentOS-kernel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimboomboom%2FTencentOS-kernel?ref=badge_shield)
 
 
 
@@ -792,3 +793,7 @@ echo "259:2 200 > /sys/fs/cgroup/blkio/offline_tasks/blkio.throttle.weight_devic
 - 长期招聘内核高手，欢迎对内核非常感兴趣，有想法的同学加盟, 岗位请猛戳:  https://careers.tencent.com/jobdesc.html?postId=1200233285444177920 
 - TencentOS team邮箱： tencent_os@tencent.com
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fimboomboom%2FTencentOS-kernel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fimboomboom%2FTencentOS-kernel?ref=badge_large)
